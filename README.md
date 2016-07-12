@@ -4,3 +4,5 @@ The repository is set up for learing python programming language, which includes
 
 /code is the directory of codes.
 
+/book is the directory of books, which is ignored to commit.
+
